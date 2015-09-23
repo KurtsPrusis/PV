@@ -12,9 +12,9 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '70ZzQZenIW5EFIEETAuUC6ATHFflcQNkTsODVGcI4sjoPrf9', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [1147238727], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'RTU Data Loger', // Replaces Xively logo in the header
+	var defaultKey		= 'fhpkvZFIIfMupX4jP208OwYnn8GYfGrRtKRLcMAKHZ1QAjeh', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1075174947], // Comma separated array of Xively Feed ID numbers
+		applicationName	= 'Geko Data Loger', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
