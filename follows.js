@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'fhpkvZFIIfMupX4jP208OwYnn8GYfGrRtKRLcMAKHZ1QAjeh', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'VVnBOqFTYfxy4x8LHQkYTdDA6JGIKgcyeFstj0E1mN9PKWQA', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1075174947], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Geko Data Loger', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
