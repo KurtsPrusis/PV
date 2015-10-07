@@ -395,7 +395,7 @@
 	}
 
 	if(dataColor == '') {
-		dataColor = '0A1922';
+		dataColor = '0b082b';
 	}
 
 	var feeds = feedString.split(',');
