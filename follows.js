@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'TXMntKoOYr7NG3hlO86wYo3SNfto1KJwyjMugdgpY5mM0r9s', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [994923136!Cash,994923136!Perfume1,994923136!Perfume2], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [994923136!Cash], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'PV Data Loger', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
